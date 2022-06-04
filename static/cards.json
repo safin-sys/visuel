@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bubble Sort",
+        "img": "https://picsum.photos/500",
+        "bigO": "O(n^2)"
+    },
+    {
+        "name": "Selection Sort",
+        "img": "https://picsum.photos/501",
+        "bigO": "O(n^2)"
+    },
+    {
+        "name": "Insertion Sort",
+        "img": "https://picsum.photos/502",
+        "bigO": "O(n^2)"
+    },
+    {
+        "name": "Merge Sort",
+        "img": "https://picsum.photos/503",
+        "bigO": "O(n log n)"
+    },
+    {
+        "name": "Quick Sort",
+        "img": "https://picsum.photos/504",
+        "bigO": "O(n log n)"
+    },
+    {
+        "name": "Heap Sort",
+        "img": "https://picsum.photos/505",
+        "bigO": "O(n log n)"
+    },
+    {
+        "name": "Counting Sort",
+        "img": "https://picsum.photos/506",
+        "bigO": "O(n)"
+    },
+    {
+        "name": "Radix Sort",
+        "img": "https://picsum.photos/507",
+        "bigO": "O(n)"
+    },
+    {
+        "name": "Bucket Sort",
+        "img": "https://picsum.photos/508",
+        "bigO": "O(n)"
+    },
+    {
+        "name": "Bogo Sort",
+        "img": "https://picsum.photos/509",
+        "bigO": "O(n!)"
+    },
+    {
+        "name": "Gnome Sort",
+        "img": "https://picsum.photos/510",
+        "bigO": "O(n)"
+    },
+    {
+        "name": "Cocktail Sort",
+        "img": "https://picsum.photos/520",
+        "bigO": "O(n^2)"
+    }
+]
