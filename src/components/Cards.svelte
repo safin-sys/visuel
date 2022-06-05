@@ -12,8 +12,8 @@
 </script>
 
 <section class="grid md:grid-cols-4 gap-4">
-    {#each cards as { name, bigO, img }}
-        <a href="/" class="rounded-md overflow-hidden group">
+    {#each cards as { name, bigO, img, url }}
+        <a href={url} class="rounded-md overflow-hidden group">
             <header class="h-40 overflow-hidden">
                 <img
                     class="h-full w-full object-cover group-hover:scale-150 transition-transform ease-out duration-1000"

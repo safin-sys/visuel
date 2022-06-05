@@ -22,7 +22,7 @@
     <section class="gap-8 font-bold items-center hidden md:flex">
         <button
             on:click={handleThemeToggle}
-            class="bg-gray-200 dark:bg-gray-600 rounded-md p-2"
+            class="bg-gray-200 dark:bg-gray-600 rounded-md p-2 hover:bg-gray-300 dark:hover:bg-gray-700"
         >
             <div class="bg-gray-900 dark:bg-gray-100" id="icon" />
         </button>

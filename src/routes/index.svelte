@@ -9,6 +9,6 @@
     <title>visuel</title>
 </svelte:head>
 <Nav />
-<Hero />
+<Hero title="visuel." description="visualize beautiful math." />
 <Cards />
 <Footer />
